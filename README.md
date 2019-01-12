@@ -38,4 +38,4 @@ All users working on the same project at the same time have to be notified of an
 
 # Architecture
 The implemented architecture and component communication is visualized below.
-<img alt="Architecture" src="https://github.com/bozhan/realtime-collaborative-concept-mapper/blob/master/img/concept.png">
+<img alt="Architecture" src="https://github.com/bozhan/realtime-collaborative-concept-mapper/blob/master/img/concept.png" width="100%" height="100%">
