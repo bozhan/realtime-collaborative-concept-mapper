@@ -1,0 +1,2230 @@
+{
+	"published" : "2014-03-28T13:04:46.909Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "4b9c185b-8c90-395a-d84b-d1686cb6e559",
+		"content" : "Concept"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:20:53.320Z",
+	"publishedServer" : ISODate("2014-03-28T13:04:46.909Z"),
+	"_id" : ObjectId("5335736ef777898716000c1e")
+}
+{
+	"published" : "2014-03-28T13:05:01.498Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "update",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "4b9c185b-8c90-395a-d84b-d1686cb6e559",
+		"content" : "Concept Map"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:21:07.915Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:01.498Z"),
+	"_id" : ObjectId("5335737df777898716000c21")
+}
+{
+	"published" : "2014-03-28T13:05:07.952Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "277f6615-8bf8-ed6e-9fb4-b167f58e9e44",
+		"content" : "Concept"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:21:14.357Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:07.952Z"),
+	"_id" : ObjectId("53357383f777898716000c24")
+}
+{
+	"published" : "2014-03-28T13:05:13.861Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9",
+		"content" : "Select or type"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:21:20.260Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:13.861Z"),
+	"_id" : ObjectId("53357389f777898716000c26")
+}
+{
+	"published" : "2014-03-28T13:05:16.121Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "update",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9",
+		"content" : "graph"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:21:22.552Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:16.121Z"),
+	"_id" : ObjectId("5335738cf777898716000c28")
+}
+{
+	"published" : "2014-03-28T13:05:21.086Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_263",
+		"content" : "is a",
+		"source" : "4b9c185b-8c90-395a-d84b-d1686cb6e559",
+		"target" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:21:27.506Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:21.086Z"),
+	"_id" : ObjectId("53357391f777898716000c29")
+}
+{
+	"published" : "2014-03-28T13:05:35.664Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_263"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:21:42.083Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:35.664Z"),
+	"_id" : ObjectId("5335739ff777898716000c2d")
+}
+{
+	"published" : "2014-03-28T13:05:41.296Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_405",
+		"content" : "is a",
+		"source" : "4b9c185b-8c90-395a-d84b-d1686cb6e559",
+		"target" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:21:47.705Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:41.296Z"),
+	"_id" : ObjectId("533573a5f777898716000c30")
+}
+{
+	"published" : "2014-03-28T13:05:43.729Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "183bb77c-f0bd-d5c5-e5c4-a6de0c2e8df5",
+		"content" : "Select or type"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:21:50.146Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:43.729Z"),
+	"_id" : ObjectId("533573a7f777898716000c34")
+}
+{
+	"published" : "2014-03-28T13:05:46.387Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_405"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:21:52.803Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:46.387Z"),
+	"_id" : ObjectId("533573aaf777898716000c36")
+}
+{
+	"published" : "2014-03-28T13:05:50.494Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_547",
+		"content" : "is a",
+		"source" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9",
+		"target" : "4b9c185b-8c90-395a-d84b-d1686cb6e559"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:21:56.919Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:50.494Z"),
+	"_id" : ObjectId("533573aef777898716000c39")
+}
+{
+	"published" : "2014-03-28T13:05:55.955Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "update",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "4b9c185b-8c90-395a-d84b-d1686cb6e559",
+		"content" : "Concept Map"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:22:02.378Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:55.955Z"),
+	"_id" : ObjectId("533573b3f777898716000c3c")
+}
+{
+	"published" : "2014-03-28T13:05:56.429Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "update",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9",
+		"content" : "graph"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:22:02.869Z",
+	"publishedServer" : ISODate("2014-03-28T13:05:56.429Z"),
+	"_id" : ObjectId("533573b4f777898716000c3d")
+}
+{
+	"published" : "2014-03-28T13:06:01.801Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_547"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:22:08.228Z",
+	"publishedServer" : ISODate("2014-03-28T13:06:01.801Z"),
+	"_id" : ObjectId("533573b9f777898716000c3e")
+}
+{
+	"published" : "2014-03-28T13:06:05.317Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_693",
+		"content" : "is a",
+		"source" : "4b9c185b-8c90-395a-d84b-d1686cb6e559",
+		"target" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:22:11.757Z",
+	"publishedServer" : ISODate("2014-03-28T13:06:05.317Z"),
+	"_id" : ObjectId("533573bdf777898716000c41")
+}
+{
+	"published" : "2014-03-28T13:06:11.451Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "bfceecd8-db52-1a1b-9e62-3869aaf2f36c",
+		"content" : "Concept"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:22:17.870Z",
+	"publishedServer" : ISODate("2014-03-28T13:06:11.451Z"),
+	"_id" : ObjectId("533573c3f777898716000c44")
+}
+{
+	"published" : "2014-03-28T13:06:37.540Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "bfceecd8-db52-1a1b-9e62-3869aaf2f36c"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:22:43.967Z",
+	"publishedServer" : ISODate("2014-03-28T13:06:37.540Z"),
+	"_id" : ObjectId("533573ddf777898716000c47")
+}
+{
+	"published" : "2014-03-28T13:06:38.130Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "5f95ce54-947a-51c1-aa87-24f24d3e80cb",
+		"content" : "Concept"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:22:44.573Z",
+	"publishedServer" : ISODate("2014-03-28T13:06:38.130Z"),
+	"_id" : ObjectId("533573def777898716000c49")
+}
+{
+	"published" : "2014-03-28T13:06:43.937Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "update",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "5f95ce54-947a-51c1-aa87-24f24d3e80cb",
+		"content" : "Visualization"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:22:50.367Z",
+	"publishedServer" : ISODate("2014-03-28T13:06:43.937Z"),
+	"_id" : ObjectId("533573e3f777898716000c4d")
+}
+{
+	"published" : "2014-03-28T13:06:46.681Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_787",
+		"content" : "is a",
+		"source" : "4b9c185b-8c90-395a-d84b-d1686cb6e559",
+		"target" : "5f95ce54-947a-51c1-aa87-24f24d3e80cb"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:22:53.123Z",
+	"publishedServer" : ISODate("2014-03-28T13:06:46.681Z"),
+	"_id" : ObjectId("533573e6f777898716000c4e")
+}
+{
+	"published" : "2014-03-28T13:06:51.431Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "2f744add-b5f8-cfd7-9433-864673d8f248",
+		"content" : "Concept"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:22:57.860Z",
+	"publishedServer" : ISODate("2014-03-28T13:06:51.431Z"),
+	"_id" : ObjectId("533573ebf777898716000c51")
+}
+{
+	"published" : "2014-03-28T13:07:04.383Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "update",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "2f744add-b5f8-cfd7-9433-864673d8f248",
+		"content" : "Concepts"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:23:10.820Z",
+	"publishedServer" : ISODate("2014-03-28T13:07:04.383Z"),
+	"_id" : ObjectId("533573f8f777898716000c53")
+}
+{
+	"published" : "2014-03-28T13:07:08.227Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_978",
+		"content" : "is a",
+		"source" : "4b9c185b-8c90-395a-d84b-d1686cb6e559",
+		"target" : "2f744add-b5f8-cfd7-9433-864673d8f248"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:23:14.677Z",
+	"publishedServer" : ISODate("2014-03-28T13:07:08.227Z"),
+	"_id" : ObjectId("533573fcf777898716000c55")
+}
+{
+	"published" : "2014-03-28T13:07:13.483Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "update",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_978",
+		"content" : "has"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:23:19.912Z",
+	"publishedServer" : ISODate("2014-03-28T13:07:13.483Z"),
+	"_id" : ObjectId("53357401f777898716000c58")
+}
+{
+	"published" : "2014-03-28T13:07:23.406Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "update",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_978",
+		"content" : "describes"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:23:29.844Z",
+	"publishedServer" : ISODate("2014-03-28T13:07:23.406Z"),
+	"_id" : ObjectId("5335740bf777898716000c59")
+}
+{
+	"published" : "2014-03-28T13:07:27.415Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "e5944ca1-f004-22e1-e12d-d6c689ce94f0",
+		"content" : "Concept"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:23:33.868Z",
+	"publishedServer" : ISODate("2014-03-28T13:07:27.415Z"),
+	"_id" : ObjectId("5335740ff777898716000c5b")
+}
+{
+	"published" : "2014-03-28T13:07:37.458Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "e5944ca1-f004-22e1-e12d-d6c689ce94f0"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:23:43.884Z",
+	"publishedServer" : ISODate("2014-03-28T13:07:37.458Z"),
+	"_id" : ObjectId("53357419f777898716000c5f")
+}
+{
+	"published" : "2014-03-28T13:07:38.879Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "255cd563-59ed-094c-b2df-a216b635ea46",
+		"content" : "Concept"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:23:45.327Z",
+	"publishedServer" : ISODate("2014-03-28T13:07:38.879Z"),
+	"_id" : ObjectId("5335741af777898716000c60")
+}
+{
+	"published" : "2014-03-28T13:07:51.236Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "255cd563-59ed-094c-b2df-a216b635ea46"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:23:57.677Z",
+	"publishedServer" : ISODate("2014-03-28T13:07:51.236Z"),
+	"_id" : ObjectId("53357427f777898716000c64")
+}
+{
+	"published" : "2014-03-28T13:07:52.942Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "615326c5-6ec8-7c97-351a-77974005c63d",
+		"content" : "Concept"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:23:59.390Z",
+	"publishedServer" : ISODate("2014-03-28T13:07:52.942Z"),
+	"_id" : ObjectId("53357428f777898716000c67")
+}
+{
+	"published" : "2014-03-28T13:08:23.910Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_2048",
+		"content" : "is a",
+		"source" : "2f744add-b5f8-cfd7-9433-864673d8f248",
+		"target" : "615326c5-6ec8-7c97-351a-77974005c63d"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:24:30.339Z",
+	"publishedServer" : ISODate("2014-03-28T13:08:23.910Z"),
+	"_id" : ObjectId("53357447f777898716000c6c")
+}
+{
+	"published" : "2014-03-28T13:08:36.830Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_2120",
+		"content" : "is a",
+		"source" : "4b9c185b-8c90-395a-d84b-d1686cb6e559",
+		"target" : "615326c5-6ec8-7c97-351a-77974005c63d"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:24:43.253Z",
+	"publishedServer" : ISODate("2014-03-28T13:08:36.830Z"),
+	"_id" : ObjectId("53357454f777898716000c6f")
+}
+{
+	"published" : "2014-03-28T13:09:21.484Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "277f6615-8bf8-ed6e-9fb4-b167f58e9e44"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:25:27.916Z",
+	"publishedServer" : ISODate("2014-03-28T13:09:21.484Z"),
+	"_id" : ObjectId("53357481f777898716000c74")
+}
+{
+	"published" : "2014-03-28T13:09:54.829Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "c03a138e-0067-bd7b-e8b7-232b812ebe3c",
+		"content" : "Concept"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:26:01.267Z",
+	"publishedServer" : ISODate("2014-03-28T13:09:54.829Z"),
+	"_id" : ObjectId("533574a2f777898716000c7a")
+}
+{
+	"published" : "2014-03-28T13:10:00.484Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "c03a138e-0067-bd7b-e8b7-232b812ebe3c"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:26:06.932Z",
+	"publishedServer" : ISODate("2014-03-28T13:10:00.484Z"),
+	"_id" : ObjectId("533574a8f777898716000c7c")
+}
+{
+	"published" : "2014-03-28T13:10:05.090Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "dcc019ca-0917-d9e8-eb70-82312d363fc3",
+		"content" : "Select or type"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:26:11.551Z",
+	"publishedServer" : ISODate("2014-03-28T13:10:05.090Z"),
+	"_id" : ObjectId("533574adf777898716000c7f")
+}
+{
+	"published" : "2014-03-28T13:10:10.558Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "dcc019ca-0917-d9e8-eb70-82312d363fc3"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:26:16.987Z",
+	"publishedServer" : ISODate("2014-03-28T13:10:10.558Z"),
+	"_id" : ObjectId("533574b2f777898716000c82")
+}
+{
+	"published" : "2014-03-28T13:10:11.518Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "4a7e3d85-472a-ae11-bf48-a2d09625546a",
+		"content" : "Concept"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:26:17.968Z",
+	"publishedServer" : ISODate("2014-03-28T13:10:11.518Z"),
+	"_id" : ObjectId("533574b3f777898716000c84")
+}
+{
+	"published" : "2014-03-28T13:10:32.240Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_2269",
+		"content" : "is a",
+		"source" : "2f744add-b5f8-cfd7-9433-864673d8f248",
+		"target" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:26:38.675Z",
+	"publishedServer" : ISODate("2014-03-28T13:10:32.240Z"),
+	"_id" : ObjectId("533574c8f777898716000c8a")
+}
+{
+	"published" : "2014-03-28T13:10:39.854Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_2402",
+		"content" : "is a",
+		"source" : "615326c5-6ec8-7c97-351a-77974005c63d",
+		"target" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:26:46.290Z",
+	"publishedServer" : ISODate("2014-03-28T13:10:39.854Z"),
+	"_id" : ObjectId("533574cff777898716000c8b")
+}
+{
+	"published" : "2014-03-28T13:12:17.814Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:24.165Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:17.814Z"),
+	"_id" : ObjectId("53357531f777898716000ce3")
+}
+{
+	"published" : "2014-03-28T13:12:17.986Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "5f95ce54-947a-51c1-aa87-24f24d3e80cb"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:24.168Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:17.986Z"),
+	"_id" : ObjectId("53357531f777898716000cee")
+}
+{
+	"published" : "2014-03-28T13:12:18.001Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "183bb77c-f0bd-d5c5-e5c4-a6de0c2e8df5"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:24.166Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:18.001Z"),
+	"_id" : ObjectId("53357532f777898716000cef")
+}
+{
+	"published" : "2014-03-28T13:12:19.262Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "183bb77c-f0bd-d5c5-e5c4-a6de0c2e8df5"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:25.736Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:19.262Z"),
+	"_id" : ObjectId("53357533f777898716000d1b")
+}
+{
+	"published" : "2014-03-28T13:12:20.753Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "5f95ce54-947a-51c1-aa87-24f24d3e80cb"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:27.221Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:20.753Z"),
+	"_id" : ObjectId("53357534f777898716000d33")
+}
+{
+	"published" : "2014-03-28T13:12:22.348Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "183bb77c-f0bd-d5c5-e5c4-a6de0c2e8df5"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:28.818Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:22.348Z"),
+	"_id" : ObjectId("53357536f777898716000d67")
+}
+{
+	"published" : "2014-03-28T13:12:25.791Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "5f95ce54-947a-51c1-aa87-24f24d3e80cb"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:32.235Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:25.791Z"),
+	"_id" : ObjectId("53357539f777898716000dfa")
+}
+{
+	"published" : "2014-03-28T13:12:27.153Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "4b9c185b-8c90-395a-d84b-d1686cb6e559"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:33.625Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:27.153Z"),
+	"_id" : ObjectId("5335753bf777898716000e0b")
+}
+{
+	"published" : "2014-03-28T13:12:27.168Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:33.626Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:27.168Z"),
+	"_id" : ObjectId("5335753bf777898716000e0c")
+}
+{
+	"published" : "2014-03-28T13:12:27.183Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "183bb77c-f0bd-d5c5-e5c4-a6de0c2e8df5"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:33.627Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:27.183Z"),
+	"_id" : ObjectId("5335753bf777898716000e0d")
+}
+{
+	"published" : "2014-03-28T13:12:27.330Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "5f95ce54-947a-51c1-aa87-24f24d3e80cb"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:33.803Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:27.330Z"),
+	"_id" : ObjectId("5335753bf777898716000e0e")
+}
+{
+	"published" : "2014-03-28T13:12:27.343Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "2f744add-b5f8-cfd7-9433-864673d8f248"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:33.804Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:27.343Z"),
+	"_id" : ObjectId("5335753bf777898716000e0f")
+}
+{
+	"published" : "2014-03-28T13:12:27.351Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "615326c5-6ec8-7c97-351a-77974005c63d"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:33.805Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:27.351Z"),
+	"_id" : ObjectId("5335753bf777898716000e10")
+}
+{
+	"published" : "2014-03-28T13:12:27.365Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "4a7e3d85-472a-ae11-bf48-a2d09625546a"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:33.806Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:27.365Z"),
+	"_id" : ObjectId("5335753bf777898716000e11")
+}
+{
+	"published" : "2014-03-28T13:12:31.048Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "4a7e3d85-472a-ae11-bf48-a2d09625546a"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:37.360Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:31.048Z"),
+	"_id" : ObjectId("5335753ff777898716000e66")
+}
+{
+	"published" : "2014-03-28T13:12:31.056Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "2f744add-b5f8-cfd7-9433-864673d8f248"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:37.356Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:31.056Z"),
+	"_id" : ObjectId("5335753ff777898716000e67")
+}
+{
+	"published" : "2014-03-28T13:12:31.064Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "615326c5-6ec8-7c97-351a-77974005c63d"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:37.358Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:31.064Z"),
+	"_id" : ObjectId("5335753ff777898716000e68")
+}
+{
+	"published" : "2014-03-28T13:12:42.233Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_9215",
+		"content" : "is a",
+		"source" : "615326c5-6ec8-7c97-351a-77974005c63d",
+		"target" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:28:48.667Z",
+	"publishedServer" : ISODate("2014-03-28T13:12:42.233Z"),
+	"_id" : ObjectId("5335754af777898716001063")
+}
+{
+	"published" : "2014-03-28T13:13:04.792Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "4a7e3d85-472a-ae11-bf48-a2d09625546a"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:29:11.226Z",
+	"publishedServer" : ISODate("2014-03-28T13:13:04.792Z"),
+	"_id" : ObjectId("53357560f7778987160010e8")
+}
+{
+	"published" : "2014-03-28T13:13:04.799Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "615326c5-6ec8-7c97-351a-77974005c63d"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:29:11.222Z",
+	"publishedServer" : ISODate("2014-03-28T13:13:04.799Z"),
+	"_id" : ObjectId("53357560f7778987160010e9")
+}
+{
+	"published" : "2014-03-28T13:13:04.813Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "concept",
+		"id" : "2f744add-b5f8-cfd7-9433-864673d8f248"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:29:11.219Z",
+	"publishedServer" : ISODate("2014-03-28T13:13:04.813Z"),
+	"_id" : ObjectId("53357560f7778987160010ea")
+}
+{
+	"published" : "2014-03-28T13:13:46.827Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_1779"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:29:53.278Z",
+	"publishedServer" : ISODate("2014-03-28T13:13:46.827Z"),
+	"_id" : ObjectId("5335758af7778987160010fd")
+}
+{
+	"published" : "2014-03-28T13:13:50.652Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_1779"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:29:57.125Z",
+	"publishedServer" : ISODate("2014-03-28T13:13:50.652Z"),
+	"_id" : ObjectId("5335758ef777898716001100")
+}
+{
+	"published" : "2014-03-28T13:13:53.188Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_1779"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:29:59.640Z",
+	"publishedServer" : ISODate("2014-03-28T13:13:53.188Z"),
+	"_id" : ObjectId("53357591f777898716001101")
+}
+{
+	"published" : "2014-03-28T13:13:54.892Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_1779"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:30:01.372Z",
+	"publishedServer" : ISODate("2014-03-28T13:13:54.892Z"),
+	"_id" : ObjectId("53357592f777898716001102")
+}
+{
+	"published" : "2014-03-28T13:13:57.626Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_1779"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:30:04.105Z",
+	"publishedServer" : ISODate("2014-03-28T13:13:57.626Z"),
+	"_id" : ObjectId("53357595f777898716001103")
+}
+{
+	"published" : "2014-03-28T13:14:02.728Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_1779"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:30:09.182Z",
+	"publishedServer" : ISODate("2014-03-28T13:14:02.728Z"),
+	"_id" : ObjectId("5335759af777898716001104")
+}
+{
+	"published" : "2014-03-28T13:14:04.035Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "delete",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_1779"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:30:10.514Z",
+	"publishedServer" : ISODate("2014-03-28T13:14:04.035Z"),
+	"_id" : ObjectId("5335759cf777898716001105")
+}
+{
+	"published" : "2014-03-28T13:14:30.695Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_10375",
+		"content" : "is a",
+		"source" : "2f744add-b5f8-cfd7-9433-864673d8f248",
+		"target" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:30:37.133Z",
+	"publishedServer" : ISODate("2014-03-28T13:14:30.695Z"),
+	"_id" : ObjectId("533575b6f77789871600110b")
+}
+{
+	"published" : "2014-03-28T13:14:41.266Z",
+	"actor" : {
+		"id" : "unknownActorId",
+		"objectType" : "person"
+	},
+	"verb" : "add",
+	"object" : {
+		"objectType" : "relation",
+		"id" : "con_10455",
+		"content" : "is a",
+		"source" : "615326c5-6ec8-7c97-351a-77974005c63d",
+		"target" : "b408aefa-d4ec-5235-1473-bb7f49d26ad9"
+	},
+	"target" : {
+		"objectType" : "conceptMap",
+		"id" : "e2cf6e2d-794a-99c2-3253-41528c1a5e10",
+		"displayName" : "unnamed concept map",
+		"user" : "LS"
+	},
+	"generator" : {
+		"objectType" : "application",
+		"url" : "http://134.91.34.210:8010/",
+		"id" : "3b20615a-e996-36fa-6bdb-aa4f8f01a5dd",
+		"displayName" : "ut.tools.conceptmapper"
+	},
+	"provider" : {
+		"objectType" : "dummy ILS",
+		"id" : "90420df8-3b31-0876-ff37-f732cf1af3c6"
+	},
+	"publishedClient" : "2014-03-28T13:30:47.697Z",
+	"publishedServer" : ISODate("2014-03-28T13:14:41.266Z"),
+	"_id" : ObjectId("533575c1f77789871600110d")
+}

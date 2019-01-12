@@ -1,0 +1,195 @@
+@charset "utf-8";
+
+@import "../app/commons/styles/golabColors.less";
+@import "../app/commons/styles/golabStyle.less";
+@import "../app/commons/styles/golabJqueryUi.less";
+@import "../app/commons/styles/utils.less";
+
+@tableBorder: 2px solid @primaryColor;
+@cellBorder: 1px solid @secondaryColor;
+@ut_tools_conceptmapper_toolbar_width: 150px;
+
+html, body {
+  height: 100%;
+}
+
+.ut_tools_conceptmapper_dialog {
+  z-index: 5000;
+}
+
+.ut_tools_conceptmapper_dialog .ui-dialog-titlebar-close {
+  display:none;
+}
+
+#ut_tools_conceptmapper_root {
+  height: 100%;
+}
+
+#ut_tools_conceptmapper_toolbar_container {
+  .toolAreaContainer;
+}
+
+#ut_tools_conceptmapper_toolbar {
+  .toolArea;
+  min-width: 120px;
+  margin:auto;
+  height: 200px;
+}
+
+#ut_tools_conceptmapper_toolbar_list {
+  list-style-type: none;
+  padding: 0px;
+  text-align: center;
+}
+
+.ut_tools_conceptmapper_toolbar_login {
+  width: 100px;
+}
+
+.ut_tools_conceptmapper_icon {
+  padding: 7px 7px 7px 7px;
+}
+
+.animate-if {
+  background:white;
+  border:0px solid black;
+}
+
+.animate-if.ng-enter, .animate-if.ng-leave {
+  -webkit-transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;
+  transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;
+}
+
+.animate-if.ng-enter,
+.animate-if.ng-leave.ng-leave-active {
+  opacity:0;
+}
+
+.animate-if.ng-leave,
+.animate-if.ng-enter.ng-enter-active {
+  opacity:1;
+}
+
+#ut_tools_conceptmapper_logoContainer {
+  //width:@ut_tools_conceptmapper_toolbar_width;
+  position: absolute;
+  bottom: 10px;
+  padding-left: 22px;
+  padding-bottom: 8px;
+}
+
+#ut_tools_conceptmapper_map {
+  .workAreaContainer;
+  .unselectable;
+  height: 100%;
+  width: 100%;
+}
+
+/* the buttons */
+/*-------------*/
+.ut_tools_conceptmapper_button {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  background-size: contain;
+  width:40px;
+  height:40px;
+  display: block;
+}
+
+.ut_tools_conceptmapper_icon {
+  padding: 7px 7px 7px 7px;
+}
+
+/* the concepts */
+/*--------------*/
+.ut_tools_conceptmapper_template {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ut_tools_conceptmapper_concept {
+  text-align: center;
+  border: solid 2px @primaryColor;
+  background: @primaryColorLight;
+  box-shadow: 2px 2px 19px @tertiaryColor;
+  z-index:1;
+  overflow: hidden;
+}
+
+.highlight_concept {
+  background: @secondaryColor;
+  box-shadow: 2px 2px 19px @secondaryColor;
+}
+
+.ut_tools_conceptmapper_concept * {
+  margin: 0;
+  padding: 0.5em;
+}
+
+.ut_tools_conceptmapper_concept textarea {
+  background: @primaryColorLight;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  border: 0;
+}
+
+.ut_tools_conceptmapper_concept input {
+  font-size: medium;
+  margin: 0;
+  padding: 0.25em;
+  background: @primaryColorLight;
+}
+
+.ut_tools_conceptmapper_conceptTextarea {
+  border-radius: 2px;
+}
+
+.ut_tools_conceptmapper_conceptSelector {
+  border-radius: 2px;
+}
+
+.ui-autocomplete {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: default;
+  z-index: 100;
+  list-style: none;
+  padding: 2px;
+  margin: 0;
+  display: block;
+  outline: none;
+  border: 1px solid @primaryColor;
+  background: @tertiaryColorLight;
+  //background: #ffffff url(images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;
+  color: golabTextColor;
+  border-top-left-radius: 4px;
+}
+
+/* jsPlumb edge layout */
+/*---------------------*/
+._jsPlumb_connector {
+  //z-index:5;
+}
+
+._jsPlumb_endpoint {
+  //z-index:4;
+}
+
+._jsPlumb_overlay {
+  //z-index:5;
+  text-align: center;
+  padding: 0.3em;
+  border: solid 1px @primaryColor;
+  border-radius: 0.5em;
+  background: rgba(253, 191, 100, 0.8);
+  box-shadow: 2px 2px 19px @tertiaryColor;
+  -o-box-shadow: 2px 2px 19px @tertiaryColor;
+  -webkit-box-shadow: 2px 2px 19px @tertiaryColor;
+  -moz-box-shadow: 2px 2px 19px @tertiaryColor;
+}

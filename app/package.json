@@ -1,0 +1,23 @@
+{
+  "name": "ConceptMapper",
+  "description": "A concept map project for an AngularJS app with an Express, Socket.IO backend written in CoffeeScript",
+  "version": "0.5.0",
+  "dependencies": {
+    "express": "3.1.1",
+    "jade": "0.28.2",
+    "socket.io": "0.9.14",
+    "angular": "*",
+    "uglify-js": "*",
+    "semaphore": "*",
+    "moment": "~2.5.1",
+    "querystring": "~0.2.0"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Bozhan Ivanov",
+  "license": "ISC"
+}

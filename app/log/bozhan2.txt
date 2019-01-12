@@ -1,0 +1,24 @@
+
+20140326,035657,bozhan2,logged in
+20140326,035710,bozhan2,create concept undefined
+20140326,035919,bozhan2,logged in
+20140326,142237,bozhan2,logged in
+20140326,142252,bozhan2,delete relation b/w undefined and undefined
+20140326,142443,bozhan2,logged in
+20140326,142455,bozhan2,delete relation b/w undefined and undefined
+20140326,142510,bozhan2,create concept a65f6714-c8f7-c354-86dc-53d2262cc20b
+20140326,142801,bozhan2,logged in
+20140326,145230,bozhan2,logged in
+20140326,150437,bozhan2,logged in
+20140326,150537,bozhan2,create concept 92e812b8-48ae-d126-dda9-165964878e62
+20140326,150944,bozhan2,logged in
+20140326,150955,bozhan2,delete concept 23604968-b245-c39c-93d0-e85a29501819
+20140326,151548,bozhan2,logged in
+20140326,151555,bozhan2,delete concept 23604968-b245-c39c-93d0-e85a29501819
+20140326,152446,bozhan2,logged in
+20140326,152453,bozhan2,delete all
+20140326,152512,bozhan2,create concept 9b0559de-4242-12d6-dd45-d635492d908c
+20140326,152517,bozhan2,create concept fb2cc477-009a-089d-ffe9-c394cd9d4e86
+20140326,152526,bozhan2,delete concept 9b0559de-4242-12d6-dd45-d635492d908c
+20140326,155047,bozhan2,logged in
+20140326,161137,bozhan2,logged in

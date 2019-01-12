@@ -1,0 +1,89 @@
+extends layout
+
+block content
+  div(class="nested", ng-controller='SocketCtrl')
+    //p.lead Click on the button to emit an event
+    //  input.btn.btn-inverse(type="button", ng-click="load()", value="Ping!")
+    //p.lead {{ loaded }}
+   table#ut_tools_conceptmapper_root
+    tr
+      td#ut_tools_conceptmapper_toolbar_container(valign="top")
+        div(class="areaLabel") Toolbar
+        div#ut_tools_conceptmapper_toolbar
+          ul#ut_tools_conceptmapper_toolbar_list
+            li
+              div(class="ut_tools_conceptmapper_concept ut_tools_conceptmapper_conceptTextarea ut_tools_conceptmapper_template",
+                  title="Drag me to the concept map.")
+                p Concept
+            li
+              div(class="ut_tools_conceptmapper_concept ut_tools_conceptmapper_conceptSelector ut_tools_conceptmapper_template",
+                  title="Drag me to the concept map.")
+                p Select or type
+            li
+              h2
+                i#ut_tools_conceptmapper_linkButton(class="icon-long-arrow-right ut_tools_conceptmapper_icon activeButton",
+                                                    title='Activate to create/delete relations..')
+            li
+              h2
+                i#ut_tools_conceptmapper_trashcan(class="icon-trash ut_tools_conceptmapper_icon activeButton",
+                                                  title='Drag a concept to delete or click to delete all.')
+            li
+              h2
+                i#ut_tools_conceptmapper_retrieve(class="icon-upload-alt ut_tools_conceptmapper_icon activeButton",
+                                                  title='Load concept map.')
+            li
+              h2
+                i#ut_tools_conceptmapper_store(class="icon-download-alt ut_tools_conceptmapper_icon activeButton",
+                                               title='Save concept map.')
+            li
+              h2
+                i#ut_tools_conceptmapper_notification(class="ut_tools_conceptmapper_icon icon-exclamation-sign activeButton",
+                                                      title='Test notification.')
+            li
+              h2
+                i#ut_tools_conceptmapper_settings(class="ut_tools_conceptmapper_icon icon-gear activeButton",
+                                                  title='Settings.')
+            li
+              form
+                label Username:
+                  input(class='ut_tools_conceptmapper_toolbar_login', type='text', ng-model='user')
+                  button(type='submit', ng-click='ctrl.login()') login
+            li
+              span(ng-if="ctrl.getUser()!==undefinded", class="animate-if") Logged in as:
+                {{ctrl.getUser()}}
+      td#ut_tools_conceptmapper_map(valign="top")
+      div(id="app-container")
+       div(class="areaLabel") {{ctrl.conceptTitle}}
+      div#ut_tools_conceptmapper_dialog
+
+  //COMMONS LIBRARIES
+  script(type="text/javascript", charset="utf-8", src="/commons/js/utils.js")
+  script(type="text/javascript", charset="utf-8", src="/commons/js/notificationClient.js")
+  script(type="text/javascript", charset="utf-8", src="/commons/coffee/ActionLogger.js")
+  script(type="text/javascript", charset="utf-8", src="/commons/coffee/PersistencyUtils.js")
+  script(type="text/javascript", charset="utf-8", src="/commons/coffee/MetadataUtils.js")
+
+  //CONCEPT MAPPER LIBRARIES
+  //script(type="text/javascript", charset="utf-8", src="/js/conceptMapper.js")
+  script(type="text/javascript", charset="utf-8", src="/js/configDialog.js")
+
+  //OTHERS
+  script(type="text/javascript", charset="utf-8", src="/lib/jquery/jquery.min.js")
+  script(type="text/javascript", charset="utf-8", src="/lib/jquery/jquery-ui.js")
+  script(type="text/javascript", charset="utf-8", src="/lib/jquery/jquery.ui.touch-punch.js")
+  script(type="text/javascript", charset="utf-8", src="/lib/jquery/jquery.autogrow-textarea.js")
+  script(type="text/javascript", charset="utf-8", src="/lib/jquery/jquery.jsPlumb-1.4.1-all-fixed.js")
+  script(type="text/javascript", charset="utf-8", src="/lib/jquery/jquery.tipTip.minified.js")
+
+  script(src='/lib/bootstrap/js/bootstrap.js')
+  script(src='/lib/socket.io/socket.io.js')
+  script(src='/lib/angular/angular.js')
+  script(src='/lib/angular/angular-route.js')
+  script(src='/lib/angular/angular-resource.js')
+
+  //ANGULAR APP MODULES
+  script(src='/angular/app.js')
+  script(src='/angular/controllers.js')
+  script(src='/angular/filters.js')
+  script(src='/angular/directives.js')
+  script(src='/angular/services.js')

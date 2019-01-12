@@ -1,0 +1,1 @@
+"use strict";angular.module("myApp.filters",[]).filter("title",function(){return function(t){return""+t.id+" - "+t.name}});
